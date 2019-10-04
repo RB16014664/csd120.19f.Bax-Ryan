@@ -1,0 +1,25 @@
+body {
+    background-color: #323776;
+    }
+
+h1 {
+    color: #080C3B;
+}
+h2 {
+    color: #080C3B;
+}
+a:link {
+    color: #7E82B1;
+}
+a:visited {
+    color: #1A053A;
+}
+nav ul a:link {
+    color: #D49C6A;
+}
+.byline {
+    opacity: 0.5;
+}
+#copyright {
+    color: #552800;
+}
