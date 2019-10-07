@@ -18,8 +18,8 @@ nav ul a:link {
     color: #D49C6A;
 }
 .byline {
-    opacity: 0.5;
+    color: rgba(0,0,0,0.5);
 }
-#copyright {
+#page-copyright {
     color: #552800;
 }
