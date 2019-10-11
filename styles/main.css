@@ -1,15 +1,23 @@
 body {
     background-color: #323776;
+    font-family: 'Quattrocento Sans', sans-serif;
     }
 
 h1 {
     color: #080C3B;
+    background-image:url(/CSD120/images/BG.png);
+    background-repeat:repeat-x;
+    font-family: 'Quattrocento', serif;
 }
 h2 {
     color: #080C3B;
+    background-image:url(/CSD120/images/BG.png);
+    background-repeat:repeat-x;
+    font-family: 'Quattrocento', serif;
 }
 a:link {
     color: #7E82B1;
+    text-decoration: none;
 }
 a:visited {
     color: #1A053A;
@@ -19,7 +27,23 @@ nav ul a:link {
 }
 .byline {
     color: rgba(0,0,0,0.5);
+    font-size: 70%;
 }
+
 #page-copyright {
     color: #552800;
+    text-transform: uppercase;
+}
+.bio {
+    text-indent: 3em; 
+}
+footer {
+    font-size: 12px;
+    text-align: center;
+}
+.header > ul li {
+    list-style-type: none;
+}
+ul {
+    list-style-type: disc;
 }
