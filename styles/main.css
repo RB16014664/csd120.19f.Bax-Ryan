@@ -5,13 +5,13 @@ body {
 
 h1 {
     color: #080C3B;
-    background-image:url(/CSD120/images/BG.png);
+    background-image:url(../images/BG.png);
     background-repeat:repeat-x;
     font-family: 'Quattrocento', serif;
 }
 h2 {
     color: #080C3B;
-    background-image:url(/CSD120/images/BG.png);
+    background-image:url(../images/BG.png);
     background-repeat:repeat-x;
     font-family: 'Quattrocento', serif;
 }
@@ -33,6 +33,7 @@ nav ul a:link {
 #page-copyright {
     color: #552800;
     text-transform: uppercase;
+    letter-spacing: 3px;
 }
 .bio {
     text-indent: 3em; 
@@ -45,5 +46,5 @@ footer {
     list-style-type: none;
 }
 ul {
-    list-style-type: disc;
+    list-style-type: circle;
 }
