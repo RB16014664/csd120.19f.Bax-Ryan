@@ -60,7 +60,7 @@ ul {
     border-left: 1px solid;
     border-color:rgba(0,0,0,0.3);
     background-color:#325976;
-    box-shadow: 0 0 4px rgba(0,0,0,.2);
+    box-shadow: 4px 4px 30px rgba(0,0,0,.2);
     overflow:visible;
     
     }
@@ -68,7 +68,7 @@ figure img {
     box-shadow: 2px 2px 3px rgba(0,0,0,.5);
 }
 h1, h2, h3, h4 h5, h6 {
-    text-shadow: 1px 1px 1px rgba(0,0,0,.2);
+    text-shadow: 1px 1px 1px rgba(0,0,0,.5);
     background: rgb(34,193,195);
     background: -moz-linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(68,75,162,1) 100%);
     background: -webkit-linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(68,75,162,1) 100%);
