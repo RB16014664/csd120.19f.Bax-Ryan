@@ -182,7 +182,8 @@ main{
     grid-column-gap: 2em;
     
 }
-.glossary{
+.glossary,
+#useful-links {
     grid-column: 1 / span 2 ;
 }
 .gallery{
@@ -202,10 +203,9 @@ main{
     filter: grayscale(100%);
 }
 .row-span-2{
-    grid-row:span 2;
+    grid-row: span 2;
 }
 .col-span-2{
-    grid-row: span 2;
     grid-column: span 2;
 }
 .gallery img:hover{
